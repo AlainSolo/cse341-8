@@ -1,0 +1,34 @@
+[{
+    "name": "Joe",
+    "familyName": "Biden",
+    "rang": "46",
+    "party": "Democrat",
+    "electedYear": "2021",
+    "hobbies": "swimming",
+    "favoriteFood": "chicken parmigiana",
+    "wifeName":"Jill Tracy Biden"
+},
+
+{
+    "name": "Trump",
+    "familyName": "Donald",
+    "rang": "45",
+    "party": "Republican",
+    "electedYear": "2017",
+    "hobbies": "Golf",
+    "favoriteFood": "MacDonald",
+    "wifeName":"Melania Trump"
+},
+
+{
+    "name": "Obama",
+    "familyName": "Barack",
+    "rang": "44",
+    "party": "Democrat",
+    "electedYear": "2009",
+    "hobbies": "Basket",
+    "favoriteFood": "Sea food",
+    "wifeName":"Michelle LaVaughn Robinson Obama"
+}
+
+]
